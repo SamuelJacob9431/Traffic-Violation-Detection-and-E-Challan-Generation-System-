@@ -119,7 +119,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👥 Contributors
 
-- **Team SCP** - *Deep Learning & System Architecture*
+- **Team SCP** - *Raunak56,Blank45-cmd, Fugeleon9431 and ShardChouhan*
 
 ---
 
